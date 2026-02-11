@@ -79,8 +79,8 @@ const Home = () => {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
             alt="Cute love bear with roses"
           />
-          <h1>Hi Amie :) </h1> 
-          <h1 className="my-4 text-4xl">Will you be my girl for lifers?</h1>
+          <h1>Hi Jocelyne :) </h1> 
+          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
