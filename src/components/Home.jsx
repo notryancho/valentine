@@ -70,7 +70,7 @@ const Home = () => {
       {yesPressed ? (
         <>
           <img src="https://media1.tenor.com/m/I6OXdw_A6FYAAAAC/soriamoriaa.gif" alt="Kissing bear" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!!!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!!!! I LOVE You;))</div>
         </>
       ) : (
         <>
